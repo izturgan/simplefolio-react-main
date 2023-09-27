@@ -1,0 +1,32 @@
+{
+  "navigation": [
+		{
+			"title": "About",
+			"url": "http://www.example.com/about"
+		},
+		{
+			"title": "Contact",
+			"url": "http://www.example.com/contact"
+		}
+	],
+  "hero": {
+    "name": "Nurgissa Izturgan",
+    "subtitle": "I'm the Front-end Developer."
+  },
+  "about": {
+    "title": "About me",
+    "image": "/suret.jpg",
+    "primary": "Hi, this is Nurgissa! I am passionate about IT and this platform showcases my journey, skills and projects. Explore my work from the 'Projects' section to gain insight into my creative process and commitment to excellence. Whether you're an employer, a collaborator or simply curious, I invite you to browse my portfolio and contact me to discuss potential opportunities.",
+    "secondary": "In my spare time I like to play volleyball, watch films and ride a bike."
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "This is where you can describe about your contact. The more you describe about your contact, the more chances you have!",
+    "formId": "mleypqkp"
+  },
+  "footer": {
+		"linkedin": "https://www.linkedin.com/in/nurgissa-izturgan-091845232/",
+		"facebook": "https://www.facebook.com/nurgiiss/",
+		"github": "https://github.com/izturgan"
+	}
+}
